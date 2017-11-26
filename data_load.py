@@ -64,8 +64,6 @@ scatter_matrix(dataset)
 plt.show()
 
 
-
-
 end_time = time.clock()
 
 print("Execution time :", end_time-start_time)
