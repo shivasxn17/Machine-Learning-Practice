@@ -34,16 +34,16 @@ print("=========================================================================
 
 # box and whisker plots
 
-# dataset.plot(kind = "box",
-# 			subplots = "True",
-# 			layout = (2,2),
-# 			sharex = "False",
-# 			sharey = "False")
-# plt.show()
+dataset.plot(kind = "box",
+			subplots = "True",
+			layout = (2,2),
+			sharex = "False",
+			sharey = "False")
+plt.show()
 
 # generate the histograms for given data
-# dataset.hist()
-# plt.show()
+dataset.hist()
+plt.show()
 
 # data visualization with multivariate plot 
 # scatter plot matrix 
