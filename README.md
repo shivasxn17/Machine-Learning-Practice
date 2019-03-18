@@ -15,3 +15,12 @@ This repository is dedicated to data science studies largely machine learning an
  * Text Analytics code snippents
       * Bigrams Point Mutual Information Calculation
       * Entropy Calculation
+ * Super Learner Classifier Implementations - 
+       Validation strategies: 
+          Hold out, Kfold and OneVsOne
+      * van der Laan, M., Polley, E. & Hubbard, A. “Super Learner”, Statistical Applications in Genetics and Molecular Biology, 6(1), 2007.
+https://pdfs.semanticscholar.org/19e9/c732082706f39d2ba12845851309714db135.pdf 
+      * Wolpert, D.H., “Stacked generalisation”, Neural Networks, 5, pp 241-259, 1992.
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.1533
+      * Menahem, E., L. Rokach, & Y. Elovici, “Troika – An improved stacking schema for classification tasks”, Information Sciences, 179 (24), pp 4097-4122, 2009.
+https://www.sciencedirect.com/science/article/pii/S0020025509003600
