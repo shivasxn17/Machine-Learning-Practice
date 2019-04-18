@@ -1,0 +1,983 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,PM2.5,9,43,30,NA
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,PM10,32,72,47,NA
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,NO2,4,22,10,NA
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,NH3,1,2,1,NA
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,SO2,5,19,11,NA
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,CO,18,31,23,NA
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-03-2019 12:00:00,OZONE,7,90,29,NA
+8,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,PM2.5,11,65,29,NA
+9,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,PM10,26,143,48,NA
+10,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,NO2,2,30,10,NA
+11,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,NH3,2,7,3,NA
+12,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,SO2,5,12,7,NA
+13,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,CO,19,57,42,NA
+14,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-03-2019 12:00:00,OZONE,24,82,54,NA
+15,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,PM2.5,19,78,43,NA
+16,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,PM10,28,94,62,NA
+17,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,NO2,15,121,66,NA
+18,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,NH3,5,8,6,NA
+19,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,SO2,5,19,8,NA
+20,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,CO,12,44,29,NA
+21,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-03-2019 12:00:00,OZONE,31,111,63,NA
+22,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",25-03-2019 12:00:00,PM2.5,17,50,32,NA
+23,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",25-03-2019 12:00:00,PM10,27,94,51,NA
+24,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",25-03-2019 12:00:00,NO2,9,15,12,NA
+25,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",25-03-2019 12:00:00,NH3,1,2,2,NA
+26,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",25-03-2019 12:00:00,SO2,6,10,7,NA
+27,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,PM2.5,8,95,56,NA
+28,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,PM10,44,171,109,NA
+29,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,NO2,12,74,46,NA
+30,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,NH3,2,3,2,NA
+31,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,SO2,NA,NA,NA,NA
+32,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,CO,27,86,64,NA
+33,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-03-2019 12:00:00,OZONE,1,30,6,NA
+34,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,PM2.5,47,378,141,NA
+35,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,PM10,44,467,151,NA
+36,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,NO2,7,63,21,NA
+37,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,NH3,3,4,4,NA
+38,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,SO2,21,101,34,NA
+39,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,CO,17,116,75,NA
+40,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",25-03-2019 12:00:00,OZONE,11,100,42,NA
+41,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+42,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-03-2019 12:00:00,NO2,34,62,47,NA
+43,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-03-2019 12:00:00,SO2,8,15,11,NA
+44,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-03-2019 12:00:00,CO,34,102,61,NA
+45,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-03-2019 12:00:00,OZONE,7,19,11,NA
+46,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-03-2019 12:00:00,PM2.5,53,384,153,NA
+47,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-03-2019 12:00:00,NO2,72,132,93,NA
+48,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-03-2019 12:00:00,SO2,13,72,26,NA
+49,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-03-2019 12:00:00,CO,8,54,26,NA
+50,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-03-2019 12:00:00,OZONE,46,255,70,NA
+51,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-03-2019 12:00:00,PM2.5,48,132,81,NA
+52,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-03-2019 12:00:00,NO2,24,131,68,NA
+53,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-03-2019 12:00:00,SO2,40,62,51,NA
+54,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-03-2019 12:00:00,CO,45,103,76,NA
+55,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-03-2019 12:00:00,OZONE,54,230,106,NA
+56,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,37,280,98,NA
+57,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,PM10,81,164,112,NA
+58,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,NO2,38,101,59,NA
+59,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,6,4,NA
+60,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,SO2,18,69,40,NA
+61,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,CO,10,32,23,NA
+62,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-03-2019 12:00:00,OZONE,2,82,37,NA
+63,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,53,305,111,NA
+64,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM10,83,278,156,NA
+65,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,NO2,55,124,86,NA
+66,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,13,8,NA
+67,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,SO2,12,97,28,NA
+68,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,CO,12,143,71,NA
+69,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-03-2019 12:00:00,OZONE,3,42,19,NA
+70,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,40,327,115,NA
+71,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM10,101,192,133,NA
+72,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,NO2,26,135,64,NA
+73,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,NH3,6,8,7,NA
+74,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,SO2,16,90,40,NA
+75,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,CO,35,57,47,NA
+76,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-03-2019 12:00:00,OZONE,1,98,41,NA
+77,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-03-2019 12:00:00,PM2.5,15,98,55,NA
+78,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-03-2019 12:00:00,PM10,76,149,100,NA
+79,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-03-2019 12:00:00,NO2,18,22,20,NA
+80,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-03-2019 12:00:00,CO,15,17,16,NA
+81,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-03-2019 12:00:00,OZONE,20,53,37,NA
+82,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,45,316,122,NA
+83,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,NO2,4,39,18,NA
+84,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,8,6,NA
+85,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,SO2,14,39,20,NA
+86,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,CO,5,82,25,NA
+87,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-03-2019 12:00:00,OZONE,4,89,46,NA
+88,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-03-2019 12:00:00,PM2.5,41,194,84,NA
+89,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-03-2019 12:00:00,PM10,69,189,102,NA
+90,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-03-2019 12:00:00,NO2,30,60,45,NA
+91,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-03-2019 12:00:00,CO,3,13,9,NA
+92,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-03-2019 12:00:00,OZONE,56,111,89,NA
+93,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-03-2019 12:00:00,PM2.5,28,254,74,NA
+94,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-03-2019 12:00:00,PM10,84,163,113,NA
+95,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-03-2019 12:00:00,NO2,21,27,24,NA
+96,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-03-2019 12:00:00,CO,24,69,34,NA
+97,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-03-2019 12:00:00,OZONE,17,51,37,NA
+98,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,44,332,109,NA
+99,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,PM10,77,265,127,NA
+100,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,NO2,24,40,32,NA
+101,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,NH3,5,7,6,NA
+102,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,SO2,10,27,15,NA
+103,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,CO,10,41,18,NA
+104,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-03-2019 12:00:00,OZONE,8,84,50,NA
+105,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,38,260,84,NA
+106,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,PM10,79,162,113,NA
+107,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,NO2,18,68,38,NA
+108,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,9,6,NA
+109,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,SO2,16,61,27,NA
+110,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,CO,15,57,29,NA
+111,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-03-2019 12:00:00,OZONE,3,72,27,NA
+112,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,PM2.5,47,302,121,NA
+113,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,PM10,92,187,137,NA
+114,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,NO2,16,43,27,NA
+115,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,NH3,5,8,6,NA
+116,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,SO2,22,53,35,NA
+117,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,CO,25,50,40,NA
+118,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-03-2019 12:00:00,OZONE,8,112,58,NA
+119,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-03-2019 12:00:00,PM2.5,44,234,83,NA
+120,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-03-2019 12:00:00,PM10,82,144,108,NA
+121,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-03-2019 12:00:00,NO2,51,55,53,NA
+122,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-03-2019 12:00:00,CO,59,82,69,NA
+123,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-03-2019 12:00:00,OZONE,20,27,23,NA
+124,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,40,265,103,NA
+125,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-03-2019 12:00:00,NO2,21,97,49,NA
+126,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-03-2019 12:00:00,NH3,4,5,4,NA
+127,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-03-2019 12:00:00,SO2,19,97,34,NA
+128,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-03-2019 12:00:00,CO,2,72,38,NA
+129,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,52,301,116,NA
+130,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,PM10,73,180,113,NA
+131,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,NO2,17,34,27,NA
+132,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,NH3,3,7,5,NA
+133,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,SO2,10,101,33,NA
+134,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,CO,24,68,39,NA
+135,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-03-2019 12:00:00,OZONE,3,30,13,NA
+136,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,73,315,182,NA
+137,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,PM10,113,223,161,NA
+138,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,NO2,25,68,48,NA
+139,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,NH3,7,12,9,NA
+140,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,SO2,17,56,32,NA
+141,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,CO,48,90,67,NA
+142,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-03-2019 12:00:00,OZONE,6,98,44,NA
+143,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,42,302,96,NA
+144,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,PM10,80,177,121,NA
+145,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,NO2,23,95,53,NA
+146,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,NH3,7,10,8,NA
+147,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,SO2,31,97,42,NA
+148,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,CO,73,95,85,NA
+149,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-03-2019 12:00:00,OZONE,1,112,47,NA
+150,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-03-2019 12:00:00,PM2.5,27,96,63,NA
+151,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-03-2019 12:00:00,PM10,67,138,100,NA
+152,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-03-2019 12:00:00,NO2,3,8,5,NA
+153,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-03-2019 12:00:00,CO,13,16,14,NA
+154,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-03-2019 12:00:00,OZONE,11,41,26,NA
+155,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,270,90,NA
+156,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,PM10,84,177,115,NA
+157,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,NO2,30,102,57,NA
+158,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,7,6,NA
+159,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,SO2,14,78,28,NA
+160,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,CO,25,58,39,NA
+161,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-03-2019 12:00:00,OZONE,2,102,43,NA
+162,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,15,277,97,NA
+163,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,PM10,81,179,135,NA
+164,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,NO2,33,61,50,NA
+165,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,8,5,NA
+166,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,SO2,6,23,13,NA
+167,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,CO,25,55,43,NA
+168,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-03-2019 12:00:00,OZONE,13,34,22,NA
+169,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,76,211,126,NA
+170,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-03-2019 12:00:00,NO2,23,48,34,NA
+171,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-03-2019 12:00:00,SO2,2,18,10,NA
+172,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-03-2019 12:00:00,CO,26,50,40,NA
+173,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-03-2019 12:00:00,OZONE,12,86,49,NA
+174,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,304,102,NA
+175,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,PM10,72,142,96,NA
+176,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,NO2,13,39,24,NA
+177,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,7,6,NA
+178,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,SO2,12,56,25,NA
+179,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,CO,2,20,9,NA
+180,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-03-2019 12:00:00,OZONE,15,136,75,NA
+181,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,270,79,NA
+182,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,PM10,70,157,115,NA
+183,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,NO2,23,54,35,NA
+184,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,NH3,7,9,8,NA
+185,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,SO2,9,54,21,NA
+186,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,CO,15,118,73,NA
+187,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-03-2019 12:00:00,OZONE,10,90,46,NA
+188,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,37,290,104,NA
+189,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,PM10,62,174,120,NA
+190,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,NO2,23,84,53,NA
+191,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,NH3,9,11,10,NA
+192,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,SO2,4,76,30,NA
+193,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,CO,25,57,40,NA
+194,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-03-2019 12:00:00,OZONE,1,112,46,NA
+195,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+196,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-03-2019 12:00:00,PM10,NA,NA,NA,NA
+197,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-03-2019 12:00:00,NO2,NA,NA,NA,NA
+198,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-03-2019 12:00:00,CO,NA,NA,NA,NA
+199,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-03-2019 12:00:00,OZONE,NA,NA,NA,NA
+200,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,50,267,91,NA
+201,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,PM10,83,150,113,NA
+202,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,NO2,28,55,41,NA
+203,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,SO2,11,43,19,NA
+204,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,CO,35,52,42,NA
+205,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-03-2019 12:00:00,OZONE,5,65,31,NA
+206,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,267,82,NA
+207,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,PM10,66,150,99,NA
+208,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,NO2,10,28,19,NA
+209,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,NH3,9,14,12,NA
+210,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,SO2,4,34,9,NA
+211,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,CO,20,40,27,NA
+212,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-03-2019 12:00:00,OZONE,1,55,28,NA
+213,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,28,303,104,NA
+214,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,PM10,64,178,115,NA
+215,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,NO2,34,85,56,NA
+216,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,NH3,10,15,11,NA
+217,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,SO2,18,68,35,NA
+218,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,CO,70,97,83,NA
+219,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-03-2019 12:00:00,OZONE,9,56,27,NA
+220,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,318,106,NA
+221,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,PM10,105,251,142,NA
+222,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,NO2,53,91,73,NA
+223,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,9,7,NA
+224,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,SO2,13,69,30,NA
+225,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,CO,28,57,42,NA
+226,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-03-2019 12:00:00,OZONE,3,65,30,NA
+227,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-03-2019 12:00:00,PM2.5,18,199,70,NA
+228,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-03-2019 12:00:00,PM10,51,127,82,NA
+229,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-03-2019 12:00:00,NO2,18,45,30,NA
+230,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-03-2019 12:00:00,CO,34,50,41,NA
+231,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-03-2019 12:00:00,OZONE,13,40,25,NA
+232,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,27,335,131,NA
+233,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,PM10,86,163,119,NA
+234,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,NO2,63,102,84,NA
+235,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,6,5,NA
+236,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,SO2,3,20,7,NA
+237,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,CO,47,73,63,NA
+238,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-03-2019 12:00:00,OZONE,10,127,52,NA
+239,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,38,345,110,NA
+240,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,PM10,68,238,122,NA
+241,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,NO2,19,52,32,NA
+242,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,8,6,NA
+243,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,SO2,13,56,27,NA
+244,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,CO,15,53,25,NA
+245,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-03-2019 12:00:00,OZONE,9,78,47,NA
+246,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,17,213,92,NA
+247,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-03-2019 12:00:00,NO2,20,77,45,NA
+248,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-03-2019 12:00:00,SO2,3,21,11,NA
+249,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-03-2019 12:00:00,CO,25,68,54,NA
+250,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-03-2019 12:00:00,OZONE,9,64,31,NA
+251,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,PM2.5,55,268,107,NA
+252,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,PM10,82,416,186,NA
+253,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,NO2,27,69,46,NA
+254,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,NH3,4,6,4,NA
+255,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,SO2,15,22,18,NA
+256,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,CO,1,31,15,NA
+257,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-03-2019 12:00:00,OZONE,28,189,68,NA
+258,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,38,230,85,NA
+259,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM10,79,167,115,NA
+260,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,NO2,15,59,32,NA
+261,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,NH3,6,8,7,NA
+262,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,SO2,8,73,22,NA
+263,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,CO,13,32,23,NA
+264,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-03-2019 12:00:00,OZONE,7,67,34,NA
+265,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,38,303,93,NA
+266,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,PM10,56,178,118,NA
+267,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,NO2,9,65,34,NA
+268,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,NH3,4,8,6,NA
+269,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,SO2,7,46,19,NA
+270,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,CO,5,62,28,NA
+271,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-03-2019 12:00:00,OZONE,2,163,59,NA
+272,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,33,277,92,NA
+273,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,PM10,86,189,126,NA
+274,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,NO2,22,64,39,NA
+275,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,NH3,6,10,8,NA
+276,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,SO2,15,115,31,NA
+277,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,CO,32,78,63,NA
+278,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-03-2019 12:00:00,OZONE,6,115,48,NA
+279,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,PM2.5,40,350,120,NA
+280,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,PM10,88,276,144,NA
+281,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,NO2,43,164,76,NA
+282,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,NH3,5,8,7,NA
+283,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,SO2,12,75,29,NA
+284,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,CO,28,90,40,NA
+285,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-03-2019 12:00:00,OZONE,4,81,34,NA
+286,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-03-2019 12:00:00,PM2.5,61,396,166,NA
+287,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-03-2019 12:00:00,NO2,24,189,88,NA
+288,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-03-2019 12:00:00,SO2,5,119,43,NA
+289,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-03-2019 12:00:00,CO,14,62,23,NA
+290,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-03-2019 12:00:00,OZONE,1,108,36,NA
+291,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,PM2.5,110,289,182,NA
+292,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,PM10,119,251,158,NA
+293,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,NO2,3,26,14,NA
+294,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,NH3,9,14,11,NA
+295,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,SO2,34,130,76,NA
+296,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,CO,26,70,46,NA
+297,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-03-2019 12:00:00,OZONE,1,41,19,NA
+298,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,PM2.5,87,434,259,NA
+299,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,PM10,113,403,201,NA
+300,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,NO2,22,86,57,NA
+301,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,NH3,8,26,14,NA
+302,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,SO2,8,38,17,NA
+303,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,CO,16,102,35,NA
+304,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-03-2019 12:00:00,OZONE,1,21,7,NA
+305,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,PM2.5,26,356,143,NA
+306,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,PM10,95,420,165,NA
+307,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,NO2,52,230,110,NA
+308,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,NH3,1,9,6,NA
+309,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,SO2,7,53,24,NA
+310,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,CO,8,123,32,NA
+311,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-03-2019 12:00:00,OZONE,2,109,31,NA
+312,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,PM2.5,27,58,43,NA
+313,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,PM10,70,121,95,NA
+314,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,NO2,16,36,24,NA
+315,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,NH3,6,11,8,NA
+316,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,SO2,4,49,19,NA
+317,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,CO,9,30,19,NA
+318,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-03-2019 12:00:00,OZONE,19,89,47,NA
+319,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,PM2.5,49,176,82,NA
+320,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,PM10,60,123,80,NA
+321,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,NO2,13,32,22,NA
+322,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,NH3,2,4,3,NA
+323,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,SO2,14,20,16,NA
+324,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,CO,19,39,23,NA
+325,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-03-2019 12:00:00,OZONE,2,25,17,NA
+326,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,PM2.5,92,291,164,NA
+327,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,PM10,109,308,180,NA
+328,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,NO2,46,80,58,NA
+329,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,NH3,17,41,28,NA
+330,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,SO2,10,48,19,NA
+331,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,CO,10,89,74,NA
+332,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-03-2019 12:00:00,OZONE,1,32,14,NA
+333,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,PM2.5,61,128,82,NA
+334,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,PM10,71,106,85,NA
+335,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,NO2,9,33,20,NA
+336,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,NH3,3,7,5,NA
+337,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,SO2,11,42,20,NA
+338,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,CO,8,28,18,NA
+339,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-03-2019 12:00:00,OZONE,24,48,37,NA
+340,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,PM2.5,45,133,80,NA
+341,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,PM10,76,140,93,NA
+342,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,NO2,15,111,46,NA
+343,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,NH3,2,4,4,NA
+344,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,SO2,7,45,16,NA
+345,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,CO,103,112,106,NA
+346,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera - HSPCB",25-03-2019 12:00:00,OZONE,6,65,37,NA
+347,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",25-03-2019 12:00:00,PM2.5,50,145,76,NA
+348,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",25-03-2019 12:00:00,NO2,NA,NA,NA,NA
+349,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",25-03-2019 12:00:00,CO,NA,NA,NA,NA
+350,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",25-03-2019 12:00:00,OZONE,21,100,98,NA
+351,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,PM2.5,52,95,66,NA
+352,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,PM10,103,130,115,NA
+353,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,NO2,9,26,16,NA
+354,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,NH3,1,3,2,NA
+355,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,SO2,1,3,2,NA
+356,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,CO,12,26,20,NA
+357,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-03-2019 12:00:00,OZONE,28,106,63,NA
+358,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-03-2019 12:00:00,PM2.5,9,168,54,NA
+359,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-03-2019 12:00:00,PM10,106,233,136,NA
+360,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-03-2019 12:00:00,NO2,9,9,9,NA
+361,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-03-2019 12:00:00,CO,4,15,8,NA
+362,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-03-2019 12:00:00,OZONE,15,68,44,NA
+363,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-03-2019 12:00:00,PM2.5,66,142,92,NA
+364,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-03-2019 12:00:00,NO2,11,14,12,NA
+365,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-03-2019 12:00:00,SO2,12,27,19,NA
+366,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-03-2019 12:00:00,CO,4,19,12,NA
+367,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-03-2019 12:00:00,OZONE,2,38,22,NA
+368,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,PM2.5,47,104,66,NA
+369,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,PM10,58,114,92,NA
+370,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,NO2,17,43,26,NA
+371,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,NH3,5,8,7,NA
+372,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,SO2,30,100,42,NA
+373,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,CO,15,34,22,NA
+374,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-03-2019 12:00:00,OZONE,10,74,45,NA
+375,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,PM2.5,46,97,67,NA
+376,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,PM10,72,111,95,NA
+377,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,NO2,13,33,22,NA
+378,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,NH3,7,18,13,NA
+379,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,SO2,11,29,16,NA
+380,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,CO,5,30,18,NA
+381,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-03-2019 12:00:00,OZONE,24,70,46,NA
+382,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,PM2.5,56,96,73,NA
+383,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,PM10,44,68,56,NA
+384,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,NO2,17,24,21,NA
+385,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,NH3,12,16,14,NA
+386,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,SO2,3,17,14,NA
+387,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,CO,2,34,28,NA
+388,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-03-2019 12:00:00,OZONE,21,63,39,NA
+389,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,PM2.5,62,92,74,NA
+390,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,PM10,80,132,105,NA
+391,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,NO2,9,26,13,NA
+392,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,NH3,7,13,8,NA
+393,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,SO2,12,23,18,NA
+394,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,CO,15,25,21,NA
+395,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-03-2019 12:00:00,OZONE,31,76,55,NA
+396,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,PM2.5,36,71,50,NA
+397,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,PM10,66,104,92,NA
+398,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,NO2,14,26,20,NA
+399,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,NH3,7,10,9,NA
+400,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,SO2,9,25,14,NA
+401,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,CO,12,23,19,NA
+402,India,Haryana,Kurushketra,"Sector-7, Kurukshetra - HSPCB",25-03-2019 12:00:00,OZONE,24,75,50,NA
+403,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,PM2.5,47,79,63,NA
+404,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,PM10,71,121,90,NA
+405,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,NO2,11,18,15,NA
+406,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,NH3,5,6,6,NA
+407,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,SO2,5,10,8,NA
+408,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,CO,18,28,22,NA
+409,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-03-2019 12:00:00,OZONE,11,29,21,NA
+410,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,PM2.5,57,115,82,NA
+411,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,PM10,93,124,105,NA
+412,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,NO2,18,82,38,NA
+413,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,NH3,9,25,14,NA
+414,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,SO2,24,69,37,NA
+415,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,CO,36,66,47,NA
+416,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-03-2019 12:00:00,OZONE,3,56,33,NA
+417,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,PM2.5,56,195,97,NA
+418,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,PM10,88,141,106,NA
+419,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,NO2,10,40,20,NA
+420,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,NH3,7,10,8,NA
+421,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,SO2,4,11,6,NA
+422,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,CO,13,40,16,NA
+423,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-03-2019 12:00:00,OZONE,13,77,55,NA
+424,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,PM2.5,66,197,99,NA
+425,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,PM10,88,181,117,NA
+426,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,NO2,28,36,31,NA
+427,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,NH3,29,48,38,NA
+428,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,SO2,6,31,13,NA
+429,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,CO,51,92,73,NA
+430,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-03-2019 12:00:00,OZONE,4,48,24,NA
+431,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-03-2019 12:00:00,PM2.5,36,92,66,NA
+432,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-03-2019 12:00:00,NO2,23,35,27,NA
+433,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-03-2019 12:00:00,SO2,5,14,8,NA
+434,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-03-2019 12:00:00,CO,10,30,22,NA
+435,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-03-2019 12:00:00,OZONE,30,91,72,NA
+436,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,PM2.5,37,56,48,NA
+437,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,PM10,55,92,70,NA
+438,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,NO2,47,86,64,NA
+439,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,NH3,13,21,17,NA
+440,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,SO2,13,51,18,NA
+441,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,CO,12,28,22,NA
+442,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-03-2019 12:00:00,OZONE,2,57,20,NA
+443,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-03-2019 12:00:00,PM2.5,28,360,115,NA
+444,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-03-2019 12:00:00,NO2,8,18,12,NA
+445,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-03-2019 12:00:00,SO2,8,126,30,NA
+446,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-03-2019 12:00:00,CO,1,134,68,NA
+447,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-03-2019 12:00:00,OZONE,12,24,16,NA
+448,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,PM2.5,27,98,64,NA
+449,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,PM10,66,115,86,NA
+450,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,NO2,26,37,32,NA
+451,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,NH3,4,6,5,NA
+452,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,SO2,9,11,10,NA
+453,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,CO,15,24,19,NA
+454,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-03-2019 12:00:00,OZONE,40,117,72,NA
+455,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,PM2.5,49,80,66,NA
+456,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,PM10,55,103,76,NA
+457,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,NO2,11,17,13,NA
+458,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,NH3,17,19,18,NA
+459,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,SO2,25,59,35,NA
+460,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,CO,17,31,24,NA
+461,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-03-2019 12:00:00,OZONE,23,78,51,NA
+462,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,PM2.5,53,90,70,NA
+463,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,PM10,68,154,108,NA
+464,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,NO2,36,58,44,NA
+465,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,NH3,9,13,11,NA
+466,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,SO2,5,13,10,NA
+467,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,CO,18,40,25,NA
+468,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-03-2019 12:00:00,OZONE,15,104,64,NA
+469,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,PM2.5,60,166,115,NA
+470,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,PM10,67,176,126,NA
+471,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,NO2,11,13,12,NA
+472,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,NH3,1,2,2,NA
+473,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,SO2,4,27,13,NA
+474,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-03-2019 12:00:00,OZONE,6,42,19,NA
+475,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",25-03-2019 12:00:00,PM2.5,50,225,136,NA
+476,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",25-03-2019 12:00:00,NO2,14,33,20,NA
+477,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",25-03-2019 12:00:00,SO2,1,11,5,NA
+478,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",25-03-2019 12:00:00,CO,10,112,88,NA
+479,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",25-03-2019 12:00:00,OZONE,30,98,80,NA
+480,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",25-03-2019 12:00:00,PM2.5,8,294,101,NA
+481,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",25-03-2019 12:00:00,NO2,13,52,26,NA
+482,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",25-03-2019 12:00:00,SO2,4,8,6,NA
+483,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",25-03-2019 12:00:00,CO,15,170,44,NA
+484,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",25-03-2019 12:00:00,OZONE,6,52,31,NA
+485,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,PM2.5,47,86,64,NA
+486,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,PM10,70,120,90,NA
+487,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,NO2,52,107,76,NA
+488,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,NH3,3,6,4,NA
+489,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,SO2,1,13,7,NA
+490,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,CO,11,45,36,NA
+491,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,OZONE,41,130,88,NA
+492,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+493,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,PM10,64,130,89,NA
+494,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,NO2,12,112,42,NA
+495,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,NH3,3,4,3,NA
+496,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,SO2,4,11,7,NA
+497,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,CO,28,85,59,NA
+498,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",25-03-2019 12:00:00,OZONE,37,169,69,NA
+499,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,PM2.5,53,74,61,NA
+500,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,PM10,70,120,93,NA
+501,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,NO2,10,42,18,NA
+502,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,NH3,2,4,3,NA
+503,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,SO2,3,5,4,NA
+504,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,CO,22,46,32,NA
+505,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",25-03-2019 12:00:00,OZONE,42,135,77,NA
+506,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,PM2.5,52,80,63,NA
+507,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,PM10,75,166,106,NA
+508,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,NO2,26,57,39,NA
+509,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,NH3,1,2,1,NA
+510,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,SO2,4,12,8,NA
+511,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,CO,16,105,69,NA
+512,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",25-03-2019 12:00:00,OZONE,45,97,67,NA
+513,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",25-03-2019 12:00:00,PM2.5,48,314,126,NA
+514,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",25-03-2019 12:00:00,NO2,22,33,24,NA
+515,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",25-03-2019 12:00:00,NH3,7,9,7,NA
+516,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",25-03-2019 12:00:00,SO2,3,5,4,NA
+517,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",25-03-2019 12:00:00,CO,21,62,38,NA
+518,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,PM2.5,44,77,59,NA
+519,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,PM10,61,95,77,NA
+520,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,NO2,19,90,47,NA
+521,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,NH3,2,5,4,NA
+522,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,SO2,3,7,6,NA
+523,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,CO,26,60,42,NA
+524,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",25-03-2019 12:00:00,OZONE,8,103,73,NA
+525,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,PM2.5,43,124,65,NA
+526,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,PM10,53,133,88,NA
+527,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,NO2,17,62,27,NA
+528,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,NH3,4,6,5,NA
+529,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,SO2,8,21,15,NA
+530,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,CO,22,44,33,NA
+531,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",25-03-2019 12:00:00,OZONE,7,37,27,NA
+532,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,PM2.5,74,237,110,NA
+533,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,PM10,90,193,118,NA
+534,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,NO2,7,31,14,NA
+535,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,NH3,3,11,5,NA
+536,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,SO2,3,11,6,NA
+537,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,CO,47,100,66,NA
+538,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",25-03-2019 12:00:00,OZONE,14,99,62,NA
+539,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,PM2.5,33,66,47,NA
+540,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,PM10,43,75,59,NA
+541,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,NO2,2,11,5,NA
+542,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,NH3,1,1,1,NA
+543,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,SO2,1,10,4,NA
+544,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,CO,24,51,37,NA
+545,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",25-03-2019 12:00:00,OZONE,25,97,73,NA
+546,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",25-03-2019 12:00:00,PM2.5,32,85,55,NA
+547,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",25-03-2019 12:00:00,PM10,64,151,90,NA
+548,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",25-03-2019 12:00:00,NO2,2,2,2,NA
+549,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",25-03-2019 12:00:00,CO,10,28,14,NA
+550,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,PM2.5,40,196,73,NA
+551,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,PM10,89,231,115,NA
+552,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,NO2,38,66,51,NA
+553,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,NH3,8,11,10,NA
+554,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,SO2,6,17,11,NA
+555,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,CO,4,50,31,NA
+556,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",25-03-2019 12:00:00,OZONE,19,28,22,NA
+557,India,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",25-03-2019 12:00:00,PM2.5,16,62,42,NA
+558,India,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",25-03-2019 12:00:00,PM10,31,116,71,NA
+559,India,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",25-03-2019 12:00:00,NO2,6,9,7,NA
+560,India,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",25-03-2019 12:00:00,SO2,6,19,8,NA
+561,India,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",25-03-2019 12:00:00,CO,33,43,35,NA
+562,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,PM2.5,24,265,96,NA
+563,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,PM10,72,313,144,NA
+564,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,NO2,7,115,55,NA
+565,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,NH3,3,7,5,NA
+566,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,SO2,2,129,42,NA
+567,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,CO,12,87,48,NA
+568,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",25-03-2019 12:00:00,OZONE,8,171,86,NA
+569,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,PM2.5,37,144,66,NA
+570,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,PM10,98,189,128,NA
+571,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,NO2,3,37,15,NA
+572,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,NH3,2,4,3,NA
+573,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,SO2,2,103,18,NA
+574,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,CO,12,36,20,NA
+575,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",25-03-2019 12:00:00,OZONE,25,56,41,NA
+576,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",25-03-2019 12:00:00,PM2.5,3,288,109,NA
+577,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",25-03-2019 12:00:00,PM10,54,233,122,NA
+578,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",25-03-2019 12:00:00,SO2,5,6,5,NA
+579,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",25-03-2019 12:00:00,PM2.5,1,10,4,NA
+580,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",25-03-2019 12:00:00,PM10,56,147,100,NA
+581,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",25-03-2019 12:00:00,SO2,22,25,24,NA
+582,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",25-03-2019 12:00:00,CO,50,70,57,NA
+583,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,PM2.5,55,232,103,NA
+584,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,PM10,117,211,166,NA
+585,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,NO2,9,68,37,NA
+586,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,NH3,3,4,3,NA
+587,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,SO2,27,62,39,NA
+588,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,CO,10,65,26,NA
+589,India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",25-03-2019 12:00:00,OZONE,6,55,32,NA
+590,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,PM2.5,50,348,124,NA
+591,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,PM10,101,305,160,NA
+592,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,NO2,7,101,34,NA
+593,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,NH3,6,13,8,NA
+594,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,SO2,4,21,9,NA
+595,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,CO,27,118,72,NA
+596,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",25-03-2019 12:00:00,OZONE,9,147,74,NA
+597,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,PM2.5,44,142,70,NA
+598,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,PM10,52,111,80,NA
+599,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,NO2,5,11,7,NA
+600,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,NH3,1,11,1,NA
+601,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,SO2,18,55,29,NA
+602,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,CO,24,100,45,NA
+603,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",25-03-2019 12:00:00,OZONE,2,154,84,NA
+604,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,PM2.5,46,265,91,NA
+605,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,PM10,82,179,116,NA
+606,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,NO2,12,23,16,NA
+607,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,NH3,5,7,6,NA
+608,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,SO2,10,12,11,NA
+609,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,CO,11,21,18,NA
+610,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",25-03-2019 12:00:00,OZONE,15,20,19,NA
+611,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,PM2.5,44,98,68,NA
+612,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,PM10,56,106,79,NA
+613,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,NO2,9,13,11,NA
+614,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,NH3,2,4,2,NA
+615,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,SO2,1,19,7,NA
+616,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,CO,14,18,16,NA
+617,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",25-03-2019 12:00:00,OZONE,61,165,81,NA
+618,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",25-03-2019 12:00:00,PM2.5,35,234,86,NA
+619,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",25-03-2019 12:00:00,PM10,62,319,158,NA
+620,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",25-03-2019 12:00:00,NO2,6,65,26,NA
+621,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",25-03-2019 12:00:00,SO2,2,13,7,NA
+622,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",25-03-2019 12:00:00,OZONE,30,131,82,NA
+623,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,PM2.5,26,84,58,NA
+624,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,PM10,60,118,82,NA
+625,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,NO2,25,100,45,NA
+626,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,NH3,8,16,11,NA
+627,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,SO2,5,103,23,NA
+628,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,CO,14,98,51,NA
+629,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",25-03-2019 12:00:00,OZONE,70,170,126,NA
+630,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,PM2.5,49,325,84,NA
+631,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,PM10,47,102,70,NA
+632,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,NO2,5,73,25,NA
+633,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,NH3,5,12,9,NA
+634,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,SO2,3,14,7,NA
+635,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,CO,21,87,42,NA
+636,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",25-03-2019 12:00:00,OZONE,43,174,117,NA
+637,India,Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",25-03-2019 12:00:00,PM10,63,203,142,NA
+638,India,Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",25-03-2019 12:00:00,SO2,59,72,65,NA
+639,India,Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",25-03-2019 12:00:00,CO,102,120,103,NA
+640,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,PM2.5,52,249,134,NA
+641,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,PM10,72,196,134,NA
+642,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,NO2,13,44,18,NA
+643,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,SO2,26,91,36,NA
+644,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,CO,28,99,47,NA
+645,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",25-03-2019 12:00:00,OZONE,37,142,62,NA
+646,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",25-03-2019 12:00:00,PM2.5,261,500,401,NA
+647,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",25-03-2019 12:00:00,PM10,NA,NA,NA,NA
+648,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",25-03-2019 12:00:00,SO2,26,132,64,NA
+649,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",25-03-2019 12:00:00,CO,7,122,51,NA
+650,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",25-03-2019 12:00:00,OZONE,2,86,47,NA
+651,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,PM2.5,25,409,211,NA
+652,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,PM10,39,451,173,NA
+653,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,NO2,11,49,28,NA
+654,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,NH3,3,23,10,NA
+655,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,SO2,8,11,9,NA
+656,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,CO,105,119,109,NA
+657,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",25-03-2019 12:00:00,OZONE,3,26,13,NA
+658,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,PM2.5,24,305,126,NA
+659,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,PM10,81,500,281,NA
+660,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,NO2,8,13,10,NA
+661,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,NH3,2,2,2,NA
+662,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,SO2,34,43,38,NA
+663,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,CO,18,102,71,NA
+664,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",25-03-2019 12:00:00,OZONE,2,19,7,NA
+665,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,PM2.5,49,148,76,NA
+666,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,PM10,48,112,69,NA
+667,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,NO2,18,19,19,NA
+668,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,NH3,2,2,2,NA
+669,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,CO,20,50,38,NA
+670,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",25-03-2019 12:00:00,OZONE,3,31,15,NA
+671,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+672,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",25-03-2019 12:00:00,PM10,NA,NA,NA,NA
+673,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",25-03-2019 12:00:00,NO2,NA,NA,NA,NA
+674,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",25-03-2019 12:00:00,SO2,NA,NA,NA,NA
+675,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",25-03-2019 12:00:00,CO,61,153,110,NA
+676,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,PM2.5,90,141,111,NA
+677,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,PM10,56,108,82,NA
+678,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,NO2,20,22,21,NA
+679,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,NH3,10,14,12,NA
+680,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,SO2,6,15,10,NA
+681,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,CO,47,68,58,NA
+682,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",25-03-2019 12:00:00,OZONE,8,20,14,NA
+683,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,PM2.5,30,48,40,NA
+684,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,PM10,51,77,60,NA
+685,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,NO2,25,69,38,NA
+686,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,NH3,1,3,2,NA
+687,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,SO2,7,18,11,NA
+688,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,CO,10,17,12,NA
+689,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",25-03-2019 12:00:00,OZONE,11,14,12,NA
+690,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,PM2.5,35,76,54,NA
+691,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,PM10,44,77,55,NA
+692,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,NO2,1,2,1,NA
+693,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,NH3,5,6,5,NA
+694,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,SO2,9,14,12,NA
+695,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",25-03-2019 12:00:00,OZONE,13,42,28,NA
+696,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,PM2.5,38,255,97,NA
+697,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,PM10,54,203,105,NA
+698,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,NO2,13,25,17,NA
+699,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,NH3,4,5,5,NA
+700,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,SO2,7,105,31,NA
+701,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,CO,13,35,24,NA
+702,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",25-03-2019 12:00:00,OZONE,25,35,29,NA
+703,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,PM2.5,53,140,84,NA
+704,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,PM10,70,145,117,NA
+705,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,NO2,68,110,83,NA
+706,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,NH3,10,14,11,NA
+707,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,SO2,6,10,7,NA
+708,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,CO,31,49,37,NA
+709,India,Punjab,Patiala,"Model Town, Patiala - PPCB",25-03-2019 12:00:00,OZONE,6,14,10,NA
+710,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,PM2.5,49,141,83,NA
+711,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,PM10,81,123,102,NA
+712,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,NO2,16,47,28,NA
+713,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,NH3,11,16,13,NA
+714,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,SO2,5,17,9,NA
+715,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,CO,1,20,15,NA
+716,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",25-03-2019 12:00:00,OZONE,10,102,63,NA
+717,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,PM2.5,14,117,68,NA
+718,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,PM10,48,107,78,NA
+719,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,NO2,34,76,50,NA
+720,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,NH3,6,8,7,NA
+721,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,SO2,11,32,20,NA
+722,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,CO,4,75,29,NA
+723,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",25-03-2019 12:00:00,OZONE,16,76,47,NA
+724,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+725,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,PM10,90,200,142,NA
+726,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,NO2,68,111,88,NA
+727,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,NH3,10,23,14,NA
+728,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,SO2,23,109,54,NA
+729,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,CO,13,29,22,NA
+730,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",25-03-2019 12:00:00,OZONE,9,47,16,NA
+731,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,PM2.5,36,79,51,NA
+732,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,PM10,65,141,100,NA
+733,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,NO2,23,107,46,NA
+734,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,NH3,3,7,4,NA
+735,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,SO2,4,17,13,NA
+736,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,CO,8,45,24,NA
+737,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,OZONE,15,103,51,NA
+738,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,PM2.5,3,133,80,NA
+739,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,PM10,54,144,108,NA
+740,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,NO2,29,68,48,NA
+741,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,NH3,2,6,4,NA
+742,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,SO2,2,44,12,NA
+743,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,CO,6,77,24,NA
+744,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",25-03-2019 12:00:00,OZONE,15,85,43,NA
+745,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,PM2.5,62,80,68,NA
+746,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,PM10,58,163,119,NA
+747,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,NO2,21,36,25,NA
+748,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,NH3,6,13,8,NA
+749,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,SO2,4,33,17,NA
+750,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,CO,27,88,36,NA
+751,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",25-03-2019 12:00:00,OZONE,6,92,58,NA
+752,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,PM2.5,42,304,195,NA
+753,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,PM10,124,230,167,NA
+754,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,NO2,11,67,34,NA
+755,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,SO2,2,18,12,NA
+756,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,CO,6,120,79,NA
+757,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",25-03-2019 12:00:00,OZONE,3,101,78,NA
+758,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,PM2.5,57,300,134,NA
+759,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,PM10,74,197,122,NA
+760,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,NO2,27,85,43,NA
+761,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,NH3,9,17,12,NA
+762,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,SO2,9,18,12,NA
+763,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,CO,11,95,41,NA
+764,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25-03-2019 12:00:00,OZONE,6,54,27,NA
+765,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,PM2.5,44,248,137,NA
+766,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,PM10,79,184,140,NA
+767,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,NO2,27,58,40,NA
+768,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,NH3,5,7,6,NA
+769,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,SO2,1,15,7,NA
+770,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,CO,14,65,17,NA
+771,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25-03-2019 12:00:00,OZONE,6,64,45,NA
+772,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,PM2.5,43,78,58,NA
+773,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,PM10,60,113,88,NA
+774,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,NO2,16,44,25,NA
+775,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,NH3,5,15,7,NA
+776,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,SO2,13,28,18,NA
+777,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,CO,21,114,56,NA
+778,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",25-03-2019 12:00:00,OZONE,4,74,40,NA
+779,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",25-03-2019 12:00:00,PM2.5,2,47,21,NA
+780,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",25-03-2019 12:00:00,NO2,8,41,17,NA
+781,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",25-03-2019 12:00:00,SO2,1,8,6,NA
+782,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",25-03-2019 12:00:00,CO,16,82,51,NA
+783,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",25-03-2019 12:00:00,OZONE,5,35,15,NA
+784,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",25-03-2019 12:00:00,PM2.5,31,362,123,NA
+785,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",25-03-2019 12:00:00,NO2,22,114,57,NA
+786,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",25-03-2019 12:00:00,NH3,1,13,5,NA
+787,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",25-03-2019 12:00:00,SO2,10,22,14,NA
+788,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",25-03-2019 12:00:00,CO,24,56,37,NA
+789,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",25-03-2019 12:00:00,PM2.5,19,77,34,NA
+790,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",25-03-2019 12:00:00,NO2,8,12,10,NA
+791,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",25-03-2019 12:00:00,SO2,1,9,6,NA
+792,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",25-03-2019 12:00:00,CO,34,57,45,NA
+793,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",25-03-2019 12:00:00,OZONE,3,17,3,NA
+794,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,61,172,92,NA
+795,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,PM10,71,156,106,NA
+796,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,9,31,20,NA
+797,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,NH3,3,4,4,NA
+798,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,3,8,5,NA
+799,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,11,71,27,NA
+800,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,5,31,22,NA
+801,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,48,88,67,NA
+802,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,PM10,79,123,101,NA
+803,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,29,77,46,NA
+804,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,NH3,3,4,3,NA
+805,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,2,3,2,NA
+806,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,24,45,34,NA
+807,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,14,111,77,NA
+808,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,46,116,75,NA
+809,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,PM10,84,152,116,NA
+810,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,9,42,21,NA
+811,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,NH3,3,8,4,NA
+812,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,2,20,13,NA
+813,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,6,47,33,NA
+814,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,7,66,42,NA
+815,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,65,140,89,NA
+816,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,PM10,87,132,111,NA
+817,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,47,93,61,NA
+818,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,NH3,2,5,3,NA
+819,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,1,96,22,NA
+820,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,20,48,30,NA
+821,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,6,51,32,NA
+822,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,74,174,99,NA
+823,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,16,64,40,NA
+824,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,8,14,10,NA
+825,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,25,56,45,NA
+826,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,3,67,44,NA
+827,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,PM2.5,30,175,103,NA
+828,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,PM10,82,157,120,NA
+829,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,NO2,67,97,81,NA
+830,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,NH3,3,4,3,NA
+831,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,SO2,1,5,3,NA
+832,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,CO,24,53,44,NA
+833,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",25-03-2019 12:00:00,OZONE,16,56,40,NA
+834,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",25-03-2019 12:00:00,PM2.5,39,163,97,NA
+835,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",25-03-2019 12:00:00,NO2,14,36,24,NA
+836,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",25-03-2019 12:00:00,SO2,1,110,18,NA
+837,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",25-03-2019 12:00:00,CO,4,105,23,NA
+838,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",25-03-2019 12:00:00,OZONE,13,14,13,NA
+839,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,PM2.5,43,112,82,NA
+840,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,PM10,89,134,107,NA
+841,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,NO2,10,44,25,NA
+842,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,NH3,7,11,7,NA
+843,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,SO2,20,46,30,NA
+844,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,CO,39,55,50,NA
+845,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",25-03-2019 12:00:00,OZONE,2,46,25,NA
+846,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM2.5,49,216,106,NA
+847,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM10,104,176,142,NA
+848,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,NO2,36,106,64,NA
+849,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,NH3,5,9,7,NA
+850,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,SO2,16,112,41,NA
+851,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,CO,20,54,41,NA
+852,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",25-03-2019 12:00:00,OZONE,2,146,59,NA
+853,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM2.5,43,234,112,NA
+854,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM10,110,210,147,NA
+855,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,NO2,42,85,61,NA
+856,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,NH3,7,10,9,NA
+857,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,SO2,14,94,41,NA
+858,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,CO,25,61,45,NA
+859,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",25-03-2019 12:00:00,OZONE,21,124,62,NA
+860,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM2.5,53,291,123,NA
+861,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,PM10,106,163,136,NA
+862,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,NO2,67,93,82,NA
+863,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,NH3,7,10,8,NA
+864,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,SO2,18,108,38,NA
+865,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,CO,1,53,27,NA
+866,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",25-03-2019 12:00:00,OZONE,5,47,12,NA
+867,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,PM2.5,50,160,82,NA
+868,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,PM10,83,159,125,NA
+869,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,NO2,21,78,38,NA
+870,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,NH3,5,9,7,NA
+871,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,SO2,27,62,37,NA
+872,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,CO,22,44,31,NA
+873,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",25-03-2019 12:00:00,OZONE,12,158,67,NA
+874,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,PM2.5,50,144,79,NA
+875,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,PM10,94,179,127,NA
+876,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,NO2,12,52,27,NA
+877,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,NH3,4,8,6,NA
+878,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,SO2,9,35,20,NA
+879,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,CO,18,50,35,NA
+880,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",25-03-2019 12:00:00,OZONE,9,63,35,NA
+881,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",25-03-2019 12:00:00,PM2.5,42,249,102,NA
+882,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",25-03-2019 12:00:00,NO2,21,181,67,NA
+883,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",25-03-2019 12:00:00,SO2,8,113,27,NA
+884,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",25-03-2019 12:00:00,CO,19,177,123,NA
+885,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",25-03-2019 12:00:00,OZONE,5,100,42,NA
+886,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,PM2.5,37,304,106,NA
+887,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,PM10,92,222,144,NA
+888,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,NO2,5,47,22,NA
+889,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,NH3,7,13,9,NA
+890,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,SO2,11,69,30,NA
+891,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,CO,23,49,37,NA
+892,India,Uttar_Pradesh,Loni_Dehat,"Loni, Loni Dehat - UPPCB",25-03-2019 12:00:00,OZONE,12,112,59,NA
+893,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",25-03-2019 12:00:00,PM2.5,96,203,142,NA
+894,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",25-03-2019 12:00:00,NO2,9,71,39,NA
+895,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",25-03-2019 12:00:00,SO2,2,7,4,NA
+896,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",25-03-2019 12:00:00,CO,6,105,54,NA
+897,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",25-03-2019 12:00:00,OZONE,4,52,10,NA
+898,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",25-03-2019 12:00:00,PM2.5,87,268,148,NA
+899,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",25-03-2019 12:00:00,NO2,10,94,62,NA
+900,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",25-03-2019 12:00:00,SO2,8,18,13,NA
+901,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",25-03-2019 12:00:00,CO,29,102,79,NA
+902,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",25-03-2019 12:00:00,OZONE,11,39,23,NA
+903,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",25-03-2019 12:00:00,PM2.5,34,89,66,NA
+904,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",25-03-2019 12:00:00,NO2,10,38,17,NA
+905,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",25-03-2019 12:00:00,SO2,8,16,11,NA
+906,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",25-03-2019 12:00:00,CO,8,126,90,NA
+907,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",25-03-2019 12:00:00,OZONE,40,62,51,NA
+908,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",25-03-2019 12:00:00,PM2.5,100,284,177,NA
+909,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",25-03-2019 12:00:00,NO2,10,47,21,NA
+910,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",25-03-2019 12:00:00,NH3,1,3,1,NA
+911,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",25-03-2019 12:00:00,SO2,10,18,14,NA
+912,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",25-03-2019 12:00:00,CO,41,65,53,NA
+913,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,PM2.5,43,148,92,NA
+914,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,PM10,104,182,142,NA
+915,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,NO2,20,84,39,NA
+916,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,NH3,6,10,7,NA
+917,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,SO2,15,30,24,NA
+918,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,CO,6,65,35,NA
+919,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",25-03-2019 12:00:00,OZONE,5,114,66,NA
+920,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,PM2.5,47,189,99,NA
+921,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,PM10,81,146,116,NA
+922,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,NO2,9,38,20,NA
+923,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,NH3,7,11,8,NA
+924,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,SO2,8,41,23,NA
+925,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,CO,21,46,35,NA
+926,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",25-03-2019 12:00:00,OZONE,24,72,54,NA
+927,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,PM2.5,51,300,99,NA
+928,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,PM10,75,188,120,NA
+929,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,NO2,NA,NA,NA,NA
+930,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,SO2,4,39,19,NA
+931,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,CO,3,63,36,NA
+932,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",25-03-2019 12:00:00,OZONE,4,79,4,NA
+933,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",25-03-2019 12:00:00,PM2.5,39,289,95,NA
+934,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",25-03-2019 12:00:00,PM10,74,220,125,NA
+935,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",25-03-2019 12:00:00,NO2,8,14,11,NA
+936,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",25-03-2019 12:00:00,CO,31,36,32,NA
+937,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",25-03-2019 12:00:00,OZONE,8,95,71,NA
+938,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,PM2.5,106,500,213,NA
+939,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,PM10,121,471,188,NA
+940,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,NO2,38,103,61,NA
+941,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,SO2,1,29,15,NA
+942,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,CO,1,75,45,NA
+943,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25-03-2019 12:00:00,OZONE,18,152,58,NA
+944,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,PM2.5,86,302,172,NA
+945,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,PM10,85,276,142,NA
+946,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,NO2,4,10,8,NA
+947,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,NH3,2,10,4,NA
+948,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,SO2,18,46,28,NA
+949,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,CO,3,112,59,NA
+950,India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",25-03-2019 12:00:00,OZONE,3,31,16,NA
+951,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",25-03-2019 12:00:00,PM10,19,118,71,NA
+952,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",25-03-2019 12:00:00,NO2,15,84,41,NA
+953,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",25-03-2019 12:00:00,SO2,2,50,18,NA
+954,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",25-03-2019 12:00:00,OZONE,6,31,16,NA
+955,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,PM2.5,69,267,152,NA
+956,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,PM10,111,225,155,NA
+957,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,NO2,39,152,84,NA
+958,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,NH3,5,14,8,NA
+959,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,SO2,23,128,64,NA
+960,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,CO,13,105,65,NA
+961,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",25-03-2019 12:00:00,OZONE,4,37,15,NA
+962,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,PM2.5,82,332,216,NA
+963,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,PM10,94,245,162,NA
+964,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,NO2,47,249,126,NA
+965,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,NH3,1,5,4,NA
+966,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,SO2,7,41,19,NA
+967,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,CO,8,105,53,NA
+968,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",25-03-2019 12:00:00,OZONE,4,109,39,NA
+969,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,PM2.5,NA,NA,NA,NA
+970,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,PM10,NA,NA,NA,NA
+971,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,NO2,NA,NA,NA,NA
+972,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,NH3,NA,NA,NA,NA
+973,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,SO2,NA,NA,NA,NA
+974,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,CO,38,97,73,NA
+975,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",25-03-2019 12:00:00,OZONE,3,86,4,NA
+976,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,PM2.5,100,421,242,NA
+977,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,PM10,120,434,204,NA
+978,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,NO2,20,138,55,NA
+979,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,NH3,3,9,5,NA
+980,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,SO2,4,22,10,NA
+981,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,CO,11,123,87,NA
+982,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",25-03-2019 12:00:00,OZONE,10,136,52,NA
