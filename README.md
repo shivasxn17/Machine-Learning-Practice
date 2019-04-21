@@ -24,3 +24,9 @@ https://pdfs.semanticscholar.org/19e9/c732082706f39d2ba12845851309714db135.pdf
 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.1533
       * Menahem, E., L. Rokach, & Y. Elovici, “Troika – An improved stacking schema for classification tasks”, Information Sciences, 179 (24), pp 4097-4122, 2009.
 https://www.sciencedirect.com/science/article/pii/S0020025509003600
+
+ * India Statewise Air Pollution Data Analysis and Visualization
+     * Data Collection from Real-Time Data API
+     * Data Preprocessing 
+     * Data analysis 
+     * Data Visualization 
