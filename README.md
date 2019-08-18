@@ -38,7 +38,7 @@ https://www.sciencedirect.com/science/article/pii/S0020025509003600
 
  * Yelp Reviews Scraping, Sentiment Analysis and Multi Model Evaluation [Text Analytics]
      * Yelp reviews collection from the host using web scraping for 2 categories: Hotels & travels and Restaurants. 
-               * Performed text preprocessing to clean the data then classified reviews into positive and negative considering ratings.                * Data analysis to check for class imbalance and resampling. 
-               * Applied Bag of words approach to generate feature vector. 
-               * Trained with gridsearchCV best params and Evaluated various models with ROC curve. with gridsearchCV. 
-               * Tested Naive Bayes, Logistic Regression, Random Forest, Gradient Boosting and KNN out of which Logistic Regression performed well.  
+     * Performed text preprocessing to clean the data then classified reviews into positive and negative considering ratings.                * Data analysis to check for class imbalance and resampling. 
+     * Applied Bag of words approach to generate feature vector. 
+     * Trained with gridsearchCV best params and Evaluated various models with ROC curve. with gridsearchCV. 
+     * Tested Naive Bayes, Logistic Regression, Random Forest, Gradient Boosting and KNN out of which Logistic Regression performed well.  
